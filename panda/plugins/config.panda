@@ -23,3 +23,6 @@ textprinter
 net
 network
 filereadmon
+terrace_tbb
+terrace_tmr
+hostapd_statedump
